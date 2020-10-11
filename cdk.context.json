@@ -1,0 +1,10 @@
+{
+    "@aws-cdk/core:enableStackNameDuplicates": "true",
+    "aws-cdk:enableDiffNoFail": "true",
+    "codecommit_repo": "WebApp",
+    "codecommit_branch": "master",
+    "codebuild_project": "WebApp",
+    "codepipeline_name": "WebApp",
+    "notifications_email": "shazi7804@gmail.com",
+    "bucket_name": "aws-cdk-ec2-devops-pipeline-source-code"
+}
